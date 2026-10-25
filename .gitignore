@@ -1,0 +1,13 @@
+# project stuff
+rubric.md
+presentation-compontents.md
+*.zip
+salary_data.csv
+
+# python stuff
+.venv/
+venv/
+
+# mac stuff
+.DS_Store
+
