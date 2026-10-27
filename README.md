@@ -4,4 +4,3 @@ Jupyter Notebook for the Udacity "Model Salary Data with Linear Regression" proj
 
 [View the notebook](salary_prediction_project.ipynb)
 
-[View the slides](<Model Salary Data with Linear Regression - Oliver Maerz.pdf>)
